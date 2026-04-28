@@ -266,7 +266,3 @@ mvn test jacoco:report
 
 ## Author
 Created as a comprehensive DDD project demonstrating enterprise-level Java architecture.
-
-## License
-This project is for educational purposes.
-
